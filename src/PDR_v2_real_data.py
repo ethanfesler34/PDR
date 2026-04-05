@@ -7,6 +7,18 @@ Created on Sat Dec  6 17:06:36 2025
 """
 
 """
+Version intermédiaire du projet PDR.
+
+Cette version intègre des données réelles de marché (CAC 40)
+récupérées via yfinance. Le modèle est calibré à partir
+des rendements observés afin de construire les régimes de marché
+et la dynamique markovienne.
+
+Elle constitue une transition entre le modèle simulé et
+une approche plus réaliste du problème.
+"""
+
+"""
 PDR : maximiser le gain à long terme en gérant son portefeuille par décision automatique
 
 
