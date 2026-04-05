@@ -5,6 +5,19 @@ Created on Sat Dec  6 17:06:36 2025
 @author: Ethan Matthieu Edmond Maxence
 Benchmark MCTS Parallélisé
 """
+"""
+Version finale du projet PDR.
+
+Implémente un benchmark complet de stratégies d’allocation
+de portefeuille avec données réelles, incluant :
+- une modélisation markovienne du marché
+- une prise de décision via MCTS (POMCP)
+- une parallélisation des simulations (multiprocessing)
+
+Cette version est utilisée pour les expérimentations finales
+et l’analyse des performances des différentes stratégies.
+"""
+
 
 import numpy as np
 import random
