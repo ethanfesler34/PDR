@@ -6,6 +6,17 @@ Created on Sat Dec  6 17:06:36 2025
 """
 
 """
+Version initiale du projet PDR.
+
+Implémente un modèle simplifié de gestion de portefeuille
+dans un environnement simulé, basé sur des hypothèses
+markoviennes (MDP).
+
+Cette version sert de prototype pour tester les premières
+stratégies d’allocation et poser les bases du projet.
+"""
+
+"""
 PDR : maximiser le gain à long terme en gérant son portefeuille par décision automatique
 
 
@@ -32,7 +43,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import norm
 import sys
 
-# --- STRUCTURES DE DONNÉES ---
+# Structure de données
 
 class MCNode:
     def __init__(self, state, belief_particule, parent = None, action_taken = None):
@@ -61,7 +72,7 @@ class MCNode:
         if self.parent:
             self.parent.update(reward)
 
-# --- ENVIRONNEMENT ET SOLVEUR ---
+# Environnement et solveur
 
 class mdp:
     def __init__(self):
@@ -235,7 +246,7 @@ class mdp:
             
 
 
-# --- TESTS ET BENCHMARKS ---
+# Test et benchmarks
 
 # Initialisation de l'envionnement de la classe 'mdp' + reset  
 env = mdp()         
@@ -304,7 +315,7 @@ def strat_ST(rend, window):
         action_idx = 1 / (1 + np.exp(-action_idx))                                   # Fonction sigmoide --> normalisation entre 0 et 1
     return action_idx
 
-# --- EXECUTION ET AFFICHAGE ---
+# Execution et affichage
 
 # On fixe un scénario unique
 S = generer_scenario(1000)
