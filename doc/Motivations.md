@@ -14,9 +14,11 @@ Par ailleurs, ce travail s’inscrit directement dans la continuité des enseign
 
 Enfin, des méthodes de décision automatique plus avancées, comme le **Monte Carlo Tree Search (MCTS)**, permettent d’explorer efficacement différentes stratégies en simulant de nombreuses trajectoires possibles du système. Ces approches offrent un compromis pertinent entre exploration et exploitation dans des environnements incertains.
 
-Dans le cadre de ce projet, une partie du travail de recherche documentaire a été facilitée par l’utilisation d’outils d’intelligence artificielle, notamment pour identifier rapidement des concepts clés, des références académiques et des ressources pédagogiques pertinentes. Ces éléments ont ensuite été approfondis et croisés avec les supports de cours afin de construire une compréhension cohérente du sujet.
+Dans le cadre de ce projet, une partie du travail de recherche documentaire a été facilitée par l’utilisation d’outils d’intelligence artificielle, notamment pour identifier rapidement des concepts clés et des références pertinentes. Ces éléments ont ensuite été approfondis et confrontés aux supports de cours afin de construire une compréhension cohérente et rigoureuse du sujet.
 
-Par exemple, certaines notions générales ont été vérifiées et complétées à l’aide de ressources accessibles comme :
+Les concepts mobilisés s’appuient principalement sur des références académiques classiques en décision séquentielle, en modélisation probabiliste et en analyse de séries temporelles, qui constituent le socle théorique du projet.
+
+En complément, certaines notions ont été ponctuellement clarifiées à l’aide de ressources pédagogiques accessibles en ligne, notamment pour faciliter une première approche des concepts :
 
  Processus de décision markovien :  
   https://fr.wikipedia.org/wiki/Processus_de_d%C3%A9cision_markovien  
@@ -32,6 +34,8 @@ Par exemple, certaines notions générales ont été vérifiées et complétées
 
  Monte Carlo Tree Search :  
   https://en.wikipedia.org/wiki/Monte_Carlo_tree_search  
+
+Ces ressources ont été utilisées comme support complémentaire, en parallèle des enseignements suivis cette année, afin de consolider la compréhension des notions mises en œuvre.
 
 Ce projet propose ainsi une modélisation simplifiée de la gestion de portefeuille, combinant modèles markoviens, analyse de séries temporelles et méthodes de simulation Monte Carlo, afin de comparer différentes stratégies de décision dans un cadre contrôlé.
 
