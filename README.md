@@ -21,8 +21,21 @@ L’approche repose sur :
 L’objectif est de comparer différentes stratégies d’investissement et d’évaluer l’apport d’une approche basée sur l’exploration.
 
 
+## Accès rapide
+
+Code principal :
+
+src/final_model.py
+
+Documentation :
+motivation (état de l’art synthétique),
+guide d’utilisation (Get Started) et 
+rapport technique complet (PDF)
+
+
 ## Structure du projet
 
+```text
 .
 ├── src/        # Codes sources
 │   ├── PDR_v1.py
@@ -35,13 +48,3 @@ L’objectif est de comparer différentes stratégies d’investissement et d’
 │   └── rapport_technique.pdf
 
 
-## Accès rapide
-
-Code principal :
-
-src/final_model.py
-
-Documentation :
-motivation (état de l’art synthétique),
-guide d’utilisation (Get Started) et 
-rapport technique complet (PDF)
