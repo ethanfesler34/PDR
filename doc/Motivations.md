@@ -16,8 +16,22 @@ Enfin, des méthodes de décision automatique plus avancées, comme le **Monte C
 
 Dans le cadre de ce projet, une partie du travail de recherche documentaire a été facilitée par l’utilisation d’outils d’intelligence artificielle, notamment pour identifier rapidement des concepts clés, des références académiques et des ressources pédagogiques pertinentes. Ces éléments ont ensuite été approfondis et croisés avec les supports de cours afin de construire une compréhension cohérente du sujet.
 
-Par exemple, certaines notions générales ont été vérifiées et complétées à l’aide de ressources accessibles comme :  
-https://fr.wikipedia.org/wiki/Processus_de_décision_markovien
+Par exemple, certaines notions générales ont été vérifiées et complétées à l’aide de ressources accessibles comme :
+
+ Processus de décision markovien :  
+  https://fr.wikipedia.org/wiki/Processus_de_d%C3%A9cision_markovien  
+
+ Chaînes de Markov :  
+  https://fr.wikipedia.org/wiki/Cha%C3%AEne_de_Markov  
+
+ Séries temporelles :  
+  https://fr.wikipedia.org/wiki/S%C3%A9rie_temporelle  
+
+ Méthodes de Monte Carlo :  
+  https://fr.wikipedia.org/wiki/M%C3%A9thode_de_Monte-Carlo  
+
+ Monte Carlo Tree Search :  
+  https://en.wikipedia.org/wiki/Monte_Carlo_tree_search  
 
 Ce projet propose ainsi une modélisation simplifiée de la gestion de portefeuille, combinant modèles markoviens, analyse de séries temporelles et méthodes de simulation Monte Carlo, afin de comparer différentes stratégies de décision dans un cadre contrôlé.
 
