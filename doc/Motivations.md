@@ -1,11 +1,7 @@
-## Motivation
+## Motivation - Etats de l'art
 
 **Auteurs :**  
-Ethan Fesler  
-Matthieu Ringard  
-Edmond Bessi  
-Maxence Devalland  
-
+Ethan Fesler, Matthieu Ringard, Edmond Bessi, Maxence Devalland  
 
 
 La gestion de portefeuille financier constitue un problème complexe, en raison de l’incertitude sur l’évolution des marchés et du caractère séquentiel des décisions. À chaque instant, un investisseur doit adapter son allocation d’actifs à partir d’informations partielles, tout en cherchant à optimiser la performance globale sur un horizon de long terme.
@@ -26,10 +22,10 @@ https://fr.wikipedia.org/wiki/Processus_de_décision_markovien
 Ce projet propose ainsi une modélisation simplifiée de la gestion de portefeuille, combinant modèles markoviens, analyse de séries temporelles et méthodes de simulation Monte Carlo, afin de comparer différentes stratégies de décision dans un cadre contrôlé.
 
 
-## Références
+## Références bibliographiques
 
-- Bellman, R. (1957). *Dynamic Programming*. Princeton University Press.  
-- Puterman, M. L. (1994). *Markov Decision Processes: Discrete Stochastic Dynamic Programming*. Wiley.  
-- Sutton, R. S., & Barto, A. G. (2018). *Reinforcement Learning: An Introduction*. MIT Press.  
-- Browne, C. B. et al. (2012). *A Survey of Monte Carlo Tree Search Methods*. IEEE Transactions on Computational Intelligence.  
-- Tsay, R. S. (2010). *Analysis of Financial Time Series*. Wiley.  
+ Bellman, R. (1957). *Dynamic Programming*. Princeton University Press.  
+ Puterman, M. L. (1994). *Markov Decision Processes: Discrete Stochastic Dynamic Programming*. Wiley.  
+ Sutton, R. S., & Barto, A. G. (2018). *Reinforcement Learning: An Introduction*. MIT Press.  
+ Browne, C. B. et al. (2012). *A Survey of Monte Carlo Tree Search Methods*. IEEE Transactions on Computational Intelligence.  
+ Tsay, R. S. (2010). *Analysis of Financial Time Series*. Wiley.  
