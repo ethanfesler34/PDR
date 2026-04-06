@@ -50,5 +50,7 @@ num_workers (ligne 209)
 ## 7. Recommandation
 
 usage classique : 200 simulations
+
 usage avancé : 1000+ simulations avec machine performante
+
 ligne 164 concernée : prop = env_instance.mc_search(x, 0.4) où x est le nombre de simulations à régler
