@@ -1,9 +1,9 @@
 # PDR – Décision automatique pour la gestion de portefeuille
 
 ## Auteurs
-Ethan Fesler
-Matthieu Ringard
-Edmond Bessi
+Ethan Fesler,
+Matthieu Ringard,
+Edmond Bessi et
 Maxence Devalland
 
 IMT Nord Europe – Parcours RAISE – FISE 2027
