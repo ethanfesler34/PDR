@@ -1,8 +1,8 @@
 ## Motivation - Etats de l'art
 
-**Auteurs :**  
-Ethan Fesler, Matthieu Ringard, Edmond Bessi, Maxence Devalland  
-
+**Ethan Fesler · Matthieu Ringard · Edmond Bessi · Maxence Devalland**  
+IMT Nord Europe — Cycle Ingénieur (FISE 2027)  
+Parcours RAISE (IA & Science des Données)
 
 La gestion de portefeuille financier constitue un problème complexe, en raison de l’incertitude sur l’évolution des marchés et du caractère séquentiel des décisions. À chaque instant, un investisseur doit adapter son allocation d’actifs à partir d’informations partielles, tout en cherchant à optimiser la performance globale sur un horizon de long terme.
 
